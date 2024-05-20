@@ -1,7 +1,7 @@
 # mycalculator
 
 A simple calculator app made in flutter to perform basic arithmetic operations.
-I wish to implemenent scientific calculation features too in future if possible.
+I wish to implemenent scientific calculation features too in future.
 
 # output video
 
